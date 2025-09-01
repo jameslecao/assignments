@@ -2,9 +2,9 @@
 
 #2 - I decided on using bubble sorting as it one of the most known and simplest sorting algorithms to code. I have also used bubble sorting the most comparitiveley to other algorithms so it seemed best to just use this one. 
 
-#3 - Challenges I had in this lab was determining what I needed to do and remembering how to do the actual code I needed. 
+#3 - Challenges I had in this lab was determining what I needed to do and remembering how to do the actual code I needed. Another struggle was explainging in words for me. 
 
-#4 - 
+#4 - https://www.loom.com/share/d67abd5f653b4518a5039521b7487326?sid=31e78b5a-e89b-44a3-b1ad-99e63c3270c1
 
 #5 - code
 
