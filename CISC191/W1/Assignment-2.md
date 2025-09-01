@@ -2,7 +2,7 @@
 
 #2 - I would perform a frequency analysis of a website by taking the text from the website and use the methos getWord frequency. As long as I set the text into parameters the getWordFrequency works, I should be able to get the word frequenct no problem.
 
-#3 -  Challenges I struggled with was understanding how to do the case sensitive in my code as well as . 
+#3 -  Challenges I struggled with was understanding how to do the case sensitive in my code. 
 
 #4 - https://www.loom.com/share/aebe4bc9c9204968ba4040bfdf984600
 
