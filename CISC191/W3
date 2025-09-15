@@ -6,10 +6,10 @@
 
 4. code : 
 
-  ```  
-    public class Main {
+```  
+   public class Main {
 
-    static class Box {
+   static class Box {
 
         int id;
         int[] data;
