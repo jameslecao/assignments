@@ -5,7 +5,7 @@
 3. video : 
 
 4. code : 
-  public class Main {
+    public class Main {
 
     static class Box {
 
@@ -52,4 +52,4 @@
 
         System.gc();
     }
-}
+}    
