@@ -5,7 +5,8 @@
 3. video : 
 
 4. code : 
-```java
+
+```
     public class Main {
 
     static class Box {
@@ -54,3 +55,4 @@
         System.gc();
     }
 }    
+```
