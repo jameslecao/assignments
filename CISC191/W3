@@ -1,1 +1,55 @@
+1. flowchart : https://drive.google.com/file/d/1qMzjjsGh_JBoNqq1KXkmr4Y6p7Jo9KeJ/view?usp=drive_link
 
+2. challenges : Challenges I faced personally was storing information in each box seperatly and having tham point to letter to box together. In general understanding the shifting and index also got me, but the reviewing the introduction helped a lot. 
+
+3. video : 
+
+4. code : 
+  public class Main {
+
+    static class Box {
+
+        int id;
+        int[] data;
+
+        Box(int id, int size) {
+            this.id = id;
+            this.data = new int[size];
+        }
+
+        int sum() {
+            int s = 0;
+            for (int v : data) s += v;
+            return s;
+        }
+    }
+
+    static Box makeBox(int id) {
+        Box b = new Box(id, 3);
+        b.data[0] = id;
+        return b;
+    }
+
+    static void doWork(Box temp) {
+        int y = temp.id;
+        temp.data[1] = 99;
+        System.out.println("sum=" + temp.sum());
+    }
+
+    public static void main(String[] args) {
+        int x = 42;
+
+        Box a = new Box(1, 2);
+        Box b = makeBox(2);
+
+
+        a = b;
+
+        b = null;
+        doWork(a);
+
+        a = null;
+
+        System.gc();
+    }
+}
