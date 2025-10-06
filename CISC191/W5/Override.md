@@ -2,7 +2,7 @@ Flow Chart : https://drive.google.com/file/d/1bY4kCmCG4Zy0RBpodwgDS08QRECLbbc-/v
 
 Challeges: A challenge I faced was setting up all fields.
 
-Video : 
+Video : https://www.loom.com/share/bc768e950017421890046300fd05f939?sid=93a7528c-9780-4137-9e31-6cf792465c66
 
 Code : 
 
