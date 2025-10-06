@@ -2,7 +2,7 @@ Flow chart : https://drive.google.com/file/d/1Tg5wGPpiNZsS951_mJQgD3ou4jWJufb1/v
 
 Challeges : A challenge I faced was storing into a derrived class properly. 
 
-Video : 
+Video : https://www.loom.com/share/0ff07b4837b04d7889183863ccfd9d5b?sid=096d2717-936a-4a5a-a947-2d47b5edaf5e
 
 Code : 
 
