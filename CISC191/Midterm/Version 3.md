@@ -1,0 +1,62 @@
+Q3: Inventory Control System V3
+
+        import java.util.*;
+                        
+        // Age exception
+                        
+        class InvalidAgeGroupException extends Exception {
+                public InvalidAgeGroupException(String message) {
+                        super(message);
+                }
+        }
+        
+         // Painkiller throws
+        
+        class PainkillerV3 extends Item {
+                private String expiryDate;
+                private String ageGroup;
+        
+        public PainkillerV3(String name, String company, String expiryDate, String ageGroup)
+                throws InvalidAgeGroupException {
+        super(name, company);
+        this.expiryDate = expiryDate;
+        setAgeGroup(ageGroup);
+                }
+                        
+        public void setAgeGroup(String ageGroup) throws InvalidAgeGroupException {
+                if (!(ageGroup.equalsIgnoreCase("Adult") ||
+                        ageGroup.equalsIgnoreCase("Child") ||
+                        ageGroup.equalsIgnoreCase("All"))) {
+                        throw new InvalidAgeGroupException("Invalid Age Group! Must be 'Adult', 'Child', or
+                        'All'.");
+                }
+                        this.ageGroup = ageGroup;
+                      }
+                
+                @Override
+                public void update() {
+                        System.out.println("Updating PainkillerV3: " + name);
+                }
+                       
+                @Override
+                public void display() {
+                        System.out.println("PainkillerV3 -> " + name + " | " + company +
+                                " | Expiry: " + expiryDate + " | Age Group: " + ageGroup);
+                        }
+                }
+                        
+                //Main class
+                public class ICSV3 {
+                        public static void main(String[] args) {
+                        
+                try {
+                        PainkillerV3 painkiller = new PainkillerV3("Motrin", "Johnson & Johnson/Pfizer",
+                "2028-09-30", "Adult");
+                        painkiller.display();
+                        } catch (InvalidAgeGroupException e) {
+                                System.out.println("Caught Custom Exception: " + e.getMessage());
+                        }
+                    }
+                }
+
+
