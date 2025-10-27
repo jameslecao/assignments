@@ -2,7 +2,7 @@
 
 2. Challenges : A challenge I had while doing this code was understanding deque.
 
-3. Video :
+3. Video : https://www.loom.com/share/61edb1b9457d40c18710250ebfc49275
 
 4. Code :
 
