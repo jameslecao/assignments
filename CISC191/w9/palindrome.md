@@ -33,12 +33,12 @@
                 boolean isPalindrome = true;
         
                 while (deque.size() > 1) {
-                    char first = deque.removeFirst();   // removes from front
-                    char last = deque.removeLast();     // removes from back
+                    char first = deque.removeFirst();   
+                    char last = deque.removeLast();     
         
                     if (first != last) {
-                        isPalindrome = false;           // mark as false
-                        break;                          // exit the loop early
+                        isPalindrome = false;        
+                        break;                          
                     }
                 }
         
