@@ -2,7 +2,7 @@ flowchart : https://drive.google.com/file/d/1q8SRTWZMge3XFRynVhOburXHjOBl6YyZ/vi
 
 challenges : I had trouble this lab using the jspinner properly.
 
-video : 
+video : https://www.loom.com/share/4ed9135292c14c4193cc31a596144da4
 
 code : 
 
