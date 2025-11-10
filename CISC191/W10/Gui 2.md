@@ -2,7 +2,7 @@ flowchart : https://drive.google.com/file/d/1dmNSFqpE0sU_sVol_-v0a5JUSYwDaDpH/vi
 
 challeges : I had trouble displaying the text for the results. I would just mess up on the formating. 
 
-video : 
+video : https://www.loom.com/share/72afc00a8eb74375b5a609a011fd0a5b
 
 code :
 
