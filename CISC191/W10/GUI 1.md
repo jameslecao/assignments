@@ -2,7 +2,7 @@ Flowchart : https://drive.google.com/file/d/16a4XiH0tO3qUQRZt-yws6S7pXXRuiK2q/vi
 
 Challenges : A challenge I had while performing this lab was getting the proper number for the salary as it wouldn't round correctly. 
 
-Video : 
+Video : https://www.loom.com/share/1d73f7d4157049f2a81099db1261ada3
 
 Code : 
 
