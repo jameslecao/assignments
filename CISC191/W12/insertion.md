@@ -2,7 +2,7 @@ Flowchart : https://drive.google.com/file/d/1PiuksM_c-QjHK9-ES0mw7eOrA7gaCgW6/vi
 
 Challenges : The challenge for me was the loop boundaries. I made the mistake of doing it wrong causing an out of bound error. 
 
-Video : 
+Video : https://www.loom.com/share/32d3b32b456d4605b48f454e3cebaea1
 
 Code : 
 
