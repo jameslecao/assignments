@@ -2,7 +2,7 @@ flowchart : https://drive.google.com/file/d/1LX_MlUx-2hzgDoo6JlpbnLD3K9SW_KC9/vi
 
 Challenge : The challenge I had with this was properly writing the code. The amount of certain aspects needed was messing me up while I wrote it.
 
-Video : 
+Video : https://www.loom.com/share/cc07802a31344bd1b5885882b56813c6
 
 Code : 
 
